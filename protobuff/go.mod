@@ -1,4 +1,4 @@
-module protobuff
+module github.com/FacelessWayfarer/protobuff
 
 go 1.23.2
 
