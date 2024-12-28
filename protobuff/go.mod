@@ -1,4 +1,4 @@
-module github.com/FacelessWayfarer/protobuff
+module github.com/FacelessWayfarer/GRPC_Auth/protobuff
 
 go 1.23.2
 
