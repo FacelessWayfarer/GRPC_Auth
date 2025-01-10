@@ -31,7 +31,7 @@ message LoginResponce {
     string token = 1; // Auth token
 }
 
-message IsAdminRequerst {
+message IsAdminRequest {
     int64 user_id = 1; // User ID to validate
 }
 
